@@ -1,0 +1,2 @@
+C:/Users/Admin/AndroidStudioProjects/getitease/android/app/.cxx/Debug/6j33455y/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/Admin/AndroidStudioProjects/getitease/android/app/.cxx/Debug/6j33455y/armeabi-v7a/CMakeFiles/rebuild_cache.dir

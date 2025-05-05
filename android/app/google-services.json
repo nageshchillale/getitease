@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922383973855",
+    "project_id": "getitease-d5019",
+    "storage_bucket": "getitease-d5019.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922383973855:android:07dfd9e5ad2b0317db186a",
+        "android_client_info": {
+          "package_name": "com.example.getitease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5UhytGoi95Sv5vhfJ6aVHR7Z_5gPrGf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

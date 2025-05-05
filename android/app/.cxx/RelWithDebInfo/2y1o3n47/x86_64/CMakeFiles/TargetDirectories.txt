@@ -1,0 +1,2 @@
+C:/Users/Admin/AndroidStudioProjects/getitease/android/app/.cxx/RelWithDebInfo/2y1o3n47/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/Admin/AndroidStudioProjects/getitease/android/app/.cxx/RelWithDebInfo/2y1o3n47/x86_64/CMakeFiles/rebuild_cache.dir
